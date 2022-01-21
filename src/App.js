@@ -69,7 +69,6 @@ const App = () => {
                 <table>
                   <thead>
                     <tr>
-
                       <th className="info-spacing"> No. {pokemon.dex_num}</th>
                       <th className="info-spacing last-right">{pokemon.name}</th>
                     </tr>
