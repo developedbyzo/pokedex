@@ -1,3 +1,3 @@
 # PokeDex
 
-An unofficial pokemon library using [https://pokeapi.co/](PokeAPI).
+An unofficial pokemon library using [PokeAPI](https://pokeapi.co/).
